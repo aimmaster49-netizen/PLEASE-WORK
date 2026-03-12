@@ -78,12 +78,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1481179007507497085/_L1oxhwCWHYCBx6n8voJOrcjGqSTNDEjkRBN_EOxdR1_usJSf0JiR1Gl0vHKdX7I2fEF",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
